@@ -2,7 +2,7 @@
 
 ## License
 
-See [LICENCE](LICENCE).
+See [LICENSE](LICENSE).
 
 ## Geting started with the Python module
 
